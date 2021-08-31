@@ -1,1 +1,1 @@
-### Materials for W207
+### Materials for MIDS W207: Applied ML course
