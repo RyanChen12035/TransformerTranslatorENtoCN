@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Transformer implementation by Tensorflow 
-## A translater from EN to Zh
+> ### A translater from EN to Zh
 ### What you can learn from this notebook
 > 1. Word embedding and tokenization
 > 2. Mask mechanism
